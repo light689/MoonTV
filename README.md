@@ -1,5 +1,7 @@
 # MoonTV
 
+redeploy
+
 <div align="center">
   <img src="public/logo.png" alt="LibreTV Logo" width="120">
 </div>
